@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "1RSLYpJHopvfVMgV34o6c4awLH0EA4Rx2AauV2Sr4Lp8gbBlq8C6tjnMgvZjNYC+dwxKjqG9esmj4QiZ7jSiGQ==",
+  "success": true,
+  "projectFilePath": "D:\\Harmonic\\HD_Demo\\HD_Demo\\HD_Demo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Uthara\\.nuget\\packages\\markdig\\0.25.0\\markdig.0.25.0.nupkg.sha512",
+    "C:\\Users\\Uthara\\.nuget\\packages\\neo.markdig.xaml\\1.0.10\\neo.markdig.xaml.1.0.10.nupkg.sha512",
+    "C:\\Users\\Uthara\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\Uthara\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Uthara\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Uthara\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.3\\system.runtime.compilerservices.unsafe.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
